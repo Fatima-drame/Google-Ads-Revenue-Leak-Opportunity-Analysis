@@ -125,17 +125,20 @@ Before creating visuals, I translated the business question into analytical requ
 
 I built three dashboard pages:
 
-**Google Ads Performance & Efficiency**
+
+#### **Google Ads Performance & Efficiency**
 
 <img width="1212" height="688" alt="image" src="https://github.com/user-attachments/assets/523cbb4b-353a-4bcd-84f8-d6c201b0114a" />
 
 
-**Campaign & Audience Segmentation**
+
+#### **Campaign & Audience Segmentation**
 
 <img width="1301" height="732" alt="image" src="https://github.com/user-attachments/assets/443f5bb7-038c-4535-a5b7-dd6e59669fbb" />
 
 
-**Monthly Conversion Forecast**
+
+#### **Monthly Conversion Forecast**
 
 <img width="1293" height="732" alt="image" src="https://github.com/user-attachments/assets/fc0787c0-4b46-4714-8be5-c3057702f90b" />
 
